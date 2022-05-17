@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StomPlugin.cpp.obj": [
+			"StompClientComponent.cpp.obj",
+			"StomPlugin.cpp.obj",
+			"STOMPWebSocketMessage.cpp.obj"
+		],
+		"Module.StomPlugin.gen.cpp.obj": [
+			"StompClientComponent.gen.cpp.obj",
+			"StomPlugin.init.gen.cpp.obj",
+			"STOMPWebSocketMessage.gen.cpp.obj"
+		]
+	}
+}

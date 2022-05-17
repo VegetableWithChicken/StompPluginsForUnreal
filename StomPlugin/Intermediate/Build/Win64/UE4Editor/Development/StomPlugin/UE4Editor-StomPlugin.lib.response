@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StomPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Epic\harix\423\UnrealEngine-4.23.0-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Epic\Project\mmo_clean\RobotEngine\Plugins\StomPlugin\Intermediate\Build\Win64\UE4Editor\Development\StomPlugin\Module.StomPlugin.cpp.obj"
+"D:\Epic\Project\mmo_clean\RobotEngine\Plugins\StomPlugin\Intermediate\Build\Win64\UE4Editor\Development\StomPlugin\Module.StomPlugin.gen.cpp.obj"
+"C:\Epic\harix\423\UnrealEngine-4.23.0-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Epic\Project\mmo_clean\RobotEngine\Plugins\StomPlugin\Intermediate\Build\Win64\UE4Editor\Development\StomPlugin\UE4Editor-StomPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_StomPlugin
